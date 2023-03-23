@@ -1,0 +1,1033 @@
+# Translation of Themes - Realestate Agent in Russian
+# This file is distributed under the same license as the Themes - Realestate Agent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-05 15:18:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Realestate Agent\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Realestate Agent"
+msgstr "Realestate Agent"
+
+#: core/includes/main.php:39
+msgid "Customize"
+msgstr "Настроить"
+
+#: core/includes/main.php:40
+msgid "Support"
+msgstr "Поддержка"
+
+#: core/includes/main.php:41
+msgid "Review"
+msgstr "Отзыв"
+
+#: core/includes/main.php:44
+msgid "Welcome! Thank you for choosing "
+msgstr "Добро пожаловать! Спасибо за выбор "
+
+#: core/includes/main.php:44
+msgid "Version: "
+msgstr "Версия: "
+
+#: core/includes/main.php:59
+msgid "Features"
+msgstr "Возможности"
+
+#: core/includes/main.php:60
+msgid "Pro"
+msgstr "Pro"
+
+#: core/includes/main.php:61
+msgid "Free"
+msgstr "Бесплатно"
+
+#: core/includes/main.php:64
+msgid "24hrs Priority Support"
+msgstr "Круглосуточная приоритетная поддержка"
+
+#: core/includes/main.php:69
+msgid "Kirki Framework"
+msgstr "Kirki Framework"
+
+#: core/includes/main.php:79
+msgid "One Click Demo Import"
+msgstr "Импортировать демо в один клик"
+
+#: core/includes/main.php:84
+msgid "Section Reordering"
+msgstr "Переупорядочивание разделов"
+
+#: core/includes/main.php:89
+msgid "Enable / Disable Option"
+msgstr "Вкл./откл. вариант"
+
+#: core/includes/main.php:94
+msgid "Multiple Sections"
+msgstr "Несколько разделов"
+
+#: core/includes/main.php:99
+msgid "Advance Color Pallete"
+msgstr "Расширенная цветовая палитра"
+
+#: core/includes/main.php:104
+msgid "Advance Widgets"
+msgstr "Расширенные виджеты"
+
+#: core/includes/main.php:109
+msgid "Page Templates"
+msgstr "Шаблоны страниц"
+
+#: core/includes/main.php:114
+msgid "Advance Typography"
+msgstr "Расширенная типографика"
+
+#: core/includes/main.php:124
+msgid "Upgrade to Premium"
+msgstr "Обновитесь до премиум"
+
+#: core/includes/main.php:126
+msgid "Discover upgraded pro features with premium version click to upgrade."
+msgstr "Откройте для себя обновленные профессиональные функции с премиум-версией, нажмите, чтобы обновить."
+
+#: core/includes/main.php:128
+msgid "Go Pro"
+msgstr "Перейти на Pro"
+
+#: core/includes/main.php:129
+msgid "Live Demo"
+msgstr "Демонстрация в реальном времени"
+
+#: core/includes/main.php:130
+msgid "Pro Docs"
+msgstr "Pro-документация"
+
+#: core/includes/main.php:38
+msgid "Documentation"
+msgstr "Документация"
+
+#: core/includes/main.php:14
+msgid "https://www.misbahwp.com/docs/realestate-agent-free-docs/"
+msgstr "https://www.misbahwp.com/docs/realestate-agent-free-docs/"
+
+#: core/includes/main.php:17
+msgid "https://www.misbahwp.com/docs/realestate-agent-pro-docs"
+msgstr "https://www.misbahwp.com/docs/realestate-agent-pro-docs"
+
+#: core/includes/main.php:20
+msgid "https://www.misbahwp.com/themes/real-estate-agent-wordpress-theme/"
+msgstr "https://www.misbahwp.com/themes/real-estate-agent-wordpress-theme/"
+
+#: core/includes/main.php:23
+msgid "https://wordpress.org/support/theme/realestate-agent"
+msgstr "https://wordpress.org/support/theme/realestate-agent"
+
+#: core/includes/main.php:26
+msgid "https://wordpress.org/support/theme/realestate-agent/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/realestate-agent/reviews/#new-post"
+
+#: core/includes/main.php:29
+msgid "https://www.misbahwp.com/demo/realestate-agent/"
+msgstr "https://www.misbahwp.com/demo/realestate-agent/"
+
+#: 404.php:6
+msgid "Not found"
+msgstr "Не найдено"
+
+#: 404.php:7
+msgid "Sorry, no posts matched your criteria."
+msgstr "Извините, нет записей, удовлетворяющих вашим условиям."
+
+#: archive.php:23 index.php:20 search.php:23
+msgid "Sorry, no post found on this archive."
+msgstr "В этом архиве не найдено ни одной записи."
+
+#. translators: %s: post title
+#: comments.php:16
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:21
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: comments.php:37 comments.php:51
+msgid "Comment navigation"
+msgstr "Навигация по комментарию"
+
+#: comments.php:39 comments.php:53
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:40 comments.php:54
+msgid "Newer Comments"
+msgstr "Более новые комментарии"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: core/includes/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установка требуемых плагинов"
+
+#: core/includes/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#. translators: %s: plugin name.
+#: core/includes/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#. translators: %s: plugin name.
+#: core/includes/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#: core/includes/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагинов."
+
+#. translators: 1: plugin name(s).
+#: core/includes/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующих плагинов: %1$s."
+msgstr[2] "Эта тема требует следующих плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: core/includes/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует следующий плагин: %1$s."
+msgstr[1] "Эта тема рекомендует следующих плагинов: %1$s."
+msgstr[2] "Эта тема рекомендует следующих плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: core/includes/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: core/includes/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Этот требуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти требуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти требуемые плагины сейчас деактивированы: %1$s."
+
+#. translators: 1: plugin name(s).
+#: core/includes/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+msgstr[2] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+
+#: core/includes/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#: core/includes/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#. translators: 1: plugin name(s).
+#: core/includes/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Этот плагин для максимальной совместимости с темой должен быть обновлен на последюю версию: %1$s."
+msgstr[1] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последюю версию: %1$s."
+msgstr[2] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последюю версию: %1$s."
+
+#: core/includes/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: core/includes/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: core/includes/class-tgm-plugin-activation.php:386
+#: core/includes/class-tgm-plugin-activation.php:827
+#: core/includes/class-tgm-plugin-activation.php:2533
+#: core/includes/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться к панели управления"
+
+#: core/includes/class-tgm-plugin-activation.php:387
+#: core/includes/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован."
+
+#: core/includes/class-tgm-plugin-activation.php:388
+#: core/includes/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин был успешно активирован:"
+msgstr[1] "Следующие плагина были успешно активированы:"
+msgstr[2] "Следующие плагинов были успешно активированы:"
+
+#. translators: 1: plugin name.
+#: core/includes/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#. translators: 1: plugin name.
+#: core/includes/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Обновите плагин."
+
+#. translators: 1: dashboard link.
+#: core/includes/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины были успешно установлены и активированы. %1$s"
+
+#: core/includes/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Отклонить это уведомление"
+
+#: core/includes/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#: core/includes/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Обратитесь за помощью к администратору этого сайта."
+
+#: core/includes/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#: core/includes/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: core/includes/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "В пакете удаленного плагина нет папки с нужным ярлыком и переименование не помогло."
+
+#: core/includes/class-tgm-plugin-activation.php:934
+#: core/includes/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Свяжитесь с поставщиком плагина и попросите его упаковать плагин в соответствии с рекомендациями WordPress."
+
+#: core/includes/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет удаленного плагина состоит из нескольких файлов, но файлы не упакованы в папку."
+
+#: core/includes/class-tgm-plugin-activation.php:1121
+#: core/includes/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#. translators: %s: version number
+#: core/includes/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: core/includes/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Обязательно"
+
+#: core/includes/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: core/includes/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: core/includes/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: core/includes/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: core/includes/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: core/includes/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: core/includes/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активно"
+
+#: core/includes/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: core/includes/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: core/includes/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#. translators: 1: install status, 2: update status
+#: core/includes/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: core/includes/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: core/includes/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Установить <span class=\"count\">(%s)</span>"
+msgstr[1] "Установить <span class=\"count\">(%s)</span>"
+msgstr[2] "Установить <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: core/includes/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступны обновления <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: core/includes/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Чтобы активировать <span class=\"count\">(%s)</span>"
+msgstr[1] "Чтобы активировать <span class=\"count\">(%s)</span>"
+msgstr[2] "Чтобы активировать <span class=\"count\">(%s)</span>"
+
+#: core/includes/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестно"
+
+#: core/includes/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: core/includes/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Миним. необходимая версия:"
+
+#: core/includes/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: core/includes/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: core/includes/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: core/includes/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: core/includes/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: core/includes/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: core/includes/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Статус"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/includes/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установка %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/includes/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновление %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/includes/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#: core/includes/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: core/includes/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установить"
+
+#: core/includes/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновить"
+
+#: core/includes/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+#: core/includes/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: core/includes/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: core/includes/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: core/includes/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: core/includes/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: core/includes/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: core/includes/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/includes/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: core/includes/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: core/includes/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#: core/includes/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: core/includes/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s был успешно установлен и активирован."
+
+#. translators: 1: plugin name.
+#: core/includes/class-tgm-plugin-activation.php:3509
+#: core/includes/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#. translators: 1: plugin name.
+#: core/includes/class-tgm-plugin-activation.php:3509
+#: core/includes/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: core/includes/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все процедуры установки и активации завершены."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/includes/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: core/includes/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: core/includes/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s был успешно установлен."
+
+#: core/includes/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/includes/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: core/includes/class-upgrade-pro.php:76
+msgid "Unlock premium features: Multiple Sections, Color Pallete, Typography, Premium Support and much more..."
+msgstr "Разблокируйте премиум-функции: несколько разделов, цветовая палитра, типографика, премиум-поддержка и многое другое..."
+
+#: core/includes/customizer.php:10
+msgid "Adjust Your Logo Size "
+msgstr "Отрегулируйте размер логотипа "
+
+#: core/includes/customizer.php:24
+msgid "Enable / Disable Site Title and Tagline"
+msgstr "Вкл./откл. Название сайта и Краткое описание"
+
+#: core/includes/customizer.php:31
+msgid "Site Title Enable / Disable Button"
+msgstr "Кнопка вкл./откл. названия сайта"
+
+#: core/includes/customizer.php:36 core/includes/customizer.php:49
+#: core/includes/customizer.php:200 core/includes/customizer.php:213
+#: core/includes/customizer.php:295 core/includes/customizer.php:389
+#: core/includes/customizer.php:402 core/includes/customizer.php:415
+#: core/includes/customizer.php:428 core/includes/customizer.php:525
+#: core/includes/customizer.php:639
+msgid "Enable"
+msgstr "Включить"
+
+#: core/includes/customizer.php:37 core/includes/customizer.php:50
+#: core/includes/customizer.php:201 core/includes/customizer.php:214
+#: core/includes/customizer.php:296 core/includes/customizer.php:390
+#: core/includes/customizer.php:403 core/includes/customizer.php:416
+#: core/includes/customizer.php:429 core/includes/customizer.php:526
+#: core/includes/customizer.php:640
+msgid "Disable"
+msgstr "Отключить"
+
+#: core/includes/customizer.php:44
+msgid "Tagline Enable / Disable Button"
+msgstr "Кнопка вкл./откл. краткого описания"
+
+#: core/includes/customizer.php:125
+msgid "Theme Options"
+msgstr "Параметры темы"
+
+#: core/includes/customizer.php:131
+msgid "Additional Settings"
+msgstr "Дополнительные настройки"
+
+#: core/includes/customizer.php:132
+msgid "Scroll To Top"
+msgstr "Прокрутить вверх"
+
+#: core/includes/customizer.php:140
+msgid "Here you can enable or disable your scroller."
+msgstr "Здесь вы можете вкл. или откл. прокрутку."
+
+#: core/includes/customizer.php:178
+msgid "Post Settings"
+msgstr "Настройки записи"
+
+#: core/includes/customizer.php:179
+msgid "Here you can get different post settings"
+msgstr "Здесь вы можете получить различные настройки записи"
+
+#: core/includes/customizer.php:188
+msgid "Enable / Disable Post Settings."
+msgstr "Настройки записи вкл./откл."
+
+#: core/includes/customizer.php:195
+msgid "Post Author Enable / Disable Button"
+msgstr "Кнопка вкл./откл. автора записи"
+
+#: core/includes/customizer.php:208
+msgid "Post Comment Enable / Disable Button"
+msgstr "Кнопка вкл./откл. отправки комментария"
+
+#: core/includes/customizer.php:242
+msgid "Header Settings"
+msgstr "Настройки шапки"
+
+#: core/includes/customizer.php:243
+msgid "Here you can add header information."
+msgstr "Здесь вы можете добавить информацию о заголовке."
+
+#: core/includes/customizer.php:284
+msgid "Enable / Disable Search Box"
+msgstr "Включить / отключить окно поиска"
+
+#: core/includes/customizer.php:367
+msgid " Slider Settings"
+msgstr " Настройки слайдера"
+
+#: core/includes/customizer.php:368
+msgid "You have to select post category to show slider."
+msgstr "Вы должны выбрать категорию сообщения, чтобы отобразить слайдер."
+
+#: core/includes/customizer.php:377
+msgid "Enable / Disable Slider"
+msgstr "Слайдер включить/отключить"
+
+#: core/includes/customizer.php:384 core/includes/customizer.php:520
+#: core/includes/customizer.php:634
+msgid "Section Enable / Disable"
+msgstr "Раздел включить/отключить"
+
+#: core/includes/customizer.php:397
+msgid "Slide Title Enable / Disable"
+msgstr "Заголовок слайда вкл./откл"
+
+#: core/includes/customizer.php:423
+msgid "Slide Button Enable / Disable"
+msgstr "Кнопка слайда вкл./откл"
+
+#: core/includes/customizer.php:437
+msgid "Slider"
+msgstr "Слайдер"
+
+#: core/includes/customizer.php:457
+msgid "Select the category to show slider ( Image Dimension 1600 x 600 )"
+msgstr "Выберите категорию для показа слайдера (размер изображения 1600 x 600)"
+
+#: core/includes/customizer.php:460 core/includes/customizer.php:593
+msgid "Select an category..."
+msgstr "Выберите категорию..."
+
+#: core/includes/customizer.php:330
+msgid "Social Media Link"
+msgstr "Ссылка на соцсети"
+
+#: core/includes/customizer.php:339
+msgid "Social Icon"
+msgstr "Значок соцсетей"
+
+#: core/includes/customizer.php:342
+msgid "Add New Social Icon"
+msgstr "Добавить новый значок соцсетей"
+
+#: core/includes/customizer.php:348
+msgid "Icon"
+msgstr "Значок"
+
+#: core/includes/customizer.php:354
+msgid "Social Link"
+msgstr "Ссылки на профили в социальных сетях"
+
+#: core/includes/customizer.php:355
+msgid "Add the social icon url here."
+msgstr "Добавьте URL на значок соцсети здесь."
+
+#: core/includes/customizer.php:601
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: core/includes/customizer.php:602
+msgid "Here you can change copyright text"
+msgstr "Здесь вы можете изменить текст об авторских правах"
+
+#: core/includes/customizer.php:611
+msgid "Footer Copyright Text"
+msgstr "Текст авторского права в подвале"
+
+#: core/includes/tgm.php:11
+msgid "Kirki Customizer Framework"
+msgstr "Kirki Customizer Framework"
+
+#. translators: %s: Misbah WP
+#: footer.php:24
+msgid "by %s"
+msgstr "от %s"
+
+#. translators: %s: WordPress
+#: footer.php:25
+msgid " | Proudly powered by %s"
+msgstr " | На платформе %s"
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr "Шаблон главной страницы"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Шаблон во всю ширину"
+
+#: functions.php:117
+msgid "Main menu"
+msgstr "Главное меню"
+
+#: functions.php:196
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: functions.php:197 functions.php:217
+msgid "Edit"
+msgstr "Изменить"
+
+#: functions.php:222
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: functions.php:255
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: functions.php:257
+msgid "This sidebar will be shown next to the content."
+msgstr "Эта боковая панель будет показана рядом с содержимым."
+
+#: functions.php:267
+msgid "Footer sidebar"
+msgstr "Боковая панель в подвале"
+
+#: functions.php:269
+msgid "This sidebar will be shown next at the bottom of your content."
+msgstr "Эта боковая панель будет показана в нижней части вашего содержимого."
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: header.php:79
+msgid "Menu"
+msgstr "Меню"
+
+#. Template Name of the theme
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: search.php:8
+msgid "You searched: "
+msgstr "Вы искали: "
+
+#: searchform.php:2
+msgid "Type here..."
+msgstr "Введите сюда..."
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Поиск"
+
+#: template-parts/content-post.php:22
+msgid "Tags:"
+msgstr "Метки:"
+
+#: template-parts/content.php:20
+msgid "comments"
+msgstr "комментарии"
+
+#: template-parts/pagination.php:3
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: template-parts/pagination.php:4
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вам необходимо авторизоваться для оформления заказа."
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr "Вход"
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Username or email address"
+msgstr "Имя пользователя или Email"
+
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:93
+msgid "Password"
+msgstr "Пароль"
+
+#: woocommerce/myaccount/form-login.php:51
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Log in"
+msgstr "Войти"
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Lost your password?"
+msgstr "Забыли пароль?"
+
+#: woocommerce/myaccount/form-login.php:70
+#: woocommerce/myaccount/form-login.php:107
+msgid "Register"
+msgstr "Регистрация"
+
+#: woocommerce/myaccount/form-login.php:79
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: woocommerce/myaccount/form-login.php:86
+msgid "Email address"
+msgstr "Email адрес"
+
+#: woocommerce/myaccount/form-login.php:99
+msgid "A password will be sent to your email address."
+msgstr "На ваш email-адрес будет отправлен пароль."
+
+#: core/includes/main.php:5 core/sections/slider.php:32
+msgid "Get Started"
+msgstr "Начать"
+
+#: core/includes/customizer.php:156
+msgid "LOWERCASE"
+msgstr "НИЖНИЙ РЕГИСТР"
+
+#: core/includes/customizer.php:165
+msgid "Theme Container Width"
+msgstr "Ширина контейнера темы"
+
+#: core/includes/customizer.php:149
+msgid "Menus Text Transform"
+msgstr "Трансформация текста меню"
+
+#: core/includes/customizer.php:152 core/includes/customizer.php:491
+msgid "Choose an option"
+msgstr "Выберите вариант"
+
+#: core/includes/customizer.php:154
+msgid "CAPITALISE"
+msgstr "ПРОПИСНЫЕ БУКВЫ"
+
+#: core/includes/customizer.php:155
+msgid "UPPERCASE"
+msgstr "ВЕРХНИЙ РЕГИСТР"
+
+#: core/includes/customizer.php:58
+msgid "Typography"
+msgstr "Типографика"
+
+#: core/includes/customizer.php:62
+msgid "Typography Option"
+msgstr "Варианты типографики"
+
+#: core/includes/customizer.php:71
+msgid "Heading Of All Sections"
+msgstr "Заголовок всех разделов"
+
+#: core/includes/customizer.php:78
+msgid "Heading Typography"
+msgstr "Типографика заголовка"
+
+#: core/includes/customizer.php:79 core/includes/customizer.php:106
+msgid "Select the typography options for your heading."
+msgstr "Выберите варианты типографики для вашего заголовка."
+
+#: core/includes/customizer.php:98
+msgid "Body Content"
+msgstr "Содержимое основной части"
+
+#: core/includes/customizer.php:105
+msgid "Content Typography"
+msgstr "Типография содержимого"
+
+#: core/includes/customizer.php:268
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: core/includes/customizer.php:252
+msgid "Email Address"
+msgstr "Email-адрес"
+
+#: core/includes/customizer.php:410
+msgid "Slide Text Enable / Disable"
+msgstr "Текст слайда вкл./откл"
+
+#: core/includes/class-upgrade-pro.php:75
+msgid "Upgrade to Realestate Agent PRO"
+msgstr "Обновить до Realestate Agent PRO"
+
+#: core/includes/class-upgrade-pro.php:77
+msgid "View Real Estate PRO"
+msgstr "Смотреть Real Estate PRO"
+
+#: core/includes/customizer.php:304
+msgid "Property Button"
+msgstr "Кнопка свойства"
+
+#: core/includes/customizer.php:310
+msgid "Text"
+msgstr "Текст"
+
+#: core/includes/customizer.php:319
+msgid "Link"
+msgstr "Ссылка"
+
+#: core/includes/customizer.php:503
+msgid "Properties Settings"
+msgstr "Настройки свойств"
+
+#: footer.php:16
+msgid "Realestate Agent WordPress Theme"
+msgstr "Тема WordPress для агента по недвижимости"
+
+#: core/includes/customizer.php:549
+msgid "Section Text"
+msgstr "Текст раздела"
+
+#: core/includes/customizer.php:558
+msgid "Section Button Text"
+msgstr "Текст кнопки раздела"
+
+#: core/includes/customizer.php:567
+msgid "Section Button Link"
+msgstr "Ссылка на кнопку раздела"
+
+#: core/includes/customizer.php:577
+msgid "Number of properties to show"
+msgstr "Количество свойств для показа"
+
+#: core/sections/your-properties.php:42 template-parts/content-post.php:15
+msgid "Properties"
+msgstr "Свойства"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "misbahwp"
+msgstr "misbahwp"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.misbahwp.com/"
+msgstr "https://www.misbahwp.com/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.misbahwp.com/themes/free-real-estate-wordpress-theme/"
+msgstr "https://www.misbahwp.com/themes/free-real-estate-wordpress-theme/"

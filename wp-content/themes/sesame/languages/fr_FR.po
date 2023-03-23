@@ -1,0 +1,1002 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sesame\n"
+"POT-Creation-Date: 2020-10-07 19:43+0330\n"
+"PO-Revision-Date: 2020-10-07 19:43+0330\n"
+"Last-Translator: Tonya <tonya@realtyna.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_attr__;esc_attr_e;esc_html__;esc_html_e;"
+"esc_attr_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: includes/tgm\n"
+"X-Poedit-SearchPathExcluded-1: includes/redux\n"
+
+#: 404.php:14
+msgid "Oops!"
+msgstr "Oops!"
+
+#: 404.php:15
+msgid "This page could not be found!"
+msgstr "Cette page n'a pas pu être trouvée!"
+
+#: 404.php:17
+msgid "Try a search instead?"
+msgstr "Essayez une recherche à la place?"
+
+#: attachment.php:22
+msgid "Previous"
+msgstr "Précédent"
+
+#: attachment.php:25
+msgid "Next"
+msgstr "Suivant"
+
+#: attachment.php:67 author.php:23 entry-content.php:33 entry.php:33
+msgid "By"
+msgstr "Par"
+
+#: author.php:32
+msgid "Blog(s)"
+msgstr "Blog(s)"
+
+#: comments.php:41
+msgid "Trackbacks"
+msgstr "Rétroliens"
+
+#: comments.php:41
+msgid "Trackback"
+msgstr "Rétroliens"
+
+#: comments.php:61
+msgid "Name (required)"
+msgstr "Nom (obligatoire)"
+
+#: comments.php:61
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:62
+msgid "Email (required)"
+msgstr "Email (obligatoire)"
+
+#: comments.php:62 includes/options/sesame-fields.php:229
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:63
+msgid "Website"
+msgstr "Site Internet"
+
+#: comments.php:63
+msgid "URL"
+msgstr "URL"
+
+#: comments.php:67 comments.php:68 comments.php:69
+msgid "Leave A Comment"
+msgstr "Laissez un commentaire"
+
+#: comments.php:71
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr "Vous devez être %1$sconnectés%2$s pour poster un commentaire."
+
+#: comments.php:73
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: comments.php:73
+msgid "Log out of this account"
+msgstr "Déconnectez-vous de ce compte"
+
+#: comments.php:77
+msgid "Post Comment"
+msgstr "Poster un commentaire"
+
+#: entry-footer.php:8
+msgid "Categories: "
+msgstr "Catégories: "
+
+#: entry-footer.php:11
+msgid "Comments"
+msgstr "Commentaires"
+
+#: footer.php:33
+#, php-format
+msgid "Developed By %s"
+msgstr "Développé par %s"
+
+#: footer.php:33 includes/options/sesame.php:103
+#: includes/options/sesame.php:152
+msgid "Realtyna"
+msgstr ""
+
+#: header.php:21
+#, fuzzy
+#| msgid "Login to continue"
+msgid "Skip to content"
+msgstr "S'identifiez pour continuer"
+
+#: includes/base.php:96
+msgid "Main Menu"
+msgstr "Menu Principal"
+
+#: includes/base.php:106
+msgid "Sidebar Widget Area"
+msgstr "Zone de widget de la barre latérale"
+
+#: includes/base.php:115
+msgid "Search Widget Area"
+msgstr "Zone de widget de la recherche"
+
+#: includes/base.php:124 includes/options/sesame-fields.php:200
+msgid "Header"
+msgstr "Entête"
+
+#: includes/base.php:133
+msgid "Footer Column 1"
+msgstr "Colonne de pied de page 1"
+
+#: includes/base.php:142
+msgid "Footer Column 2"
+msgstr "Colonne de pied de page 2"
+
+#: includes/base.php:151
+msgid "Footer Column 3"
+msgstr "Colonne de pied de page 3"
+
+#: includes/base.php:160
+msgid "Footer Column 4"
+msgstr "Colonne de pied de page 4"
+
+#: includes/base.php:169
+msgid "Header Membership"
+msgstr "Adhésion en-tête"
+
+#: includes/base.php:325
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: includes/base.php:343
+msgid "Home"
+msgstr "Accueil"
+
+#: includes/base.php:490 includes/base.php:495 includes/base.php:500
+#: includes/base.php:508 includes/base.php:513 includes/base.php:519
+#, php-format
+msgid "%s Archives"
+msgstr "%s Archives"
+
+#: includes/base.php:531
+#, php-format
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: includes/base.php:536
+#, fuzzy, php-format
+#| msgid "Page"
+msgid "Page %s"
+msgstr "Page"
+
+#: includes/base.php:536
+msgid "Page"
+msgstr "Page"
+
+#: includes/base.php:542
+#, php-format
+msgid "Search results for: %s"
+msgstr "Résultats de la recherche: %s"
+
+#: includes/base.php:547
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: includes/options/sesame-fields.php:27
+msgid "General"
+msgstr "Général"
+
+#: includes/options/sesame-fields.php:33
+msgid "Container Width"
+msgstr "Largeur du conteneur"
+
+#: includes/options/sesame-fields.php:34
+msgid "The layout container width"
+msgstr "La largeur du conteneur de mise en page"
+
+#: includes/options/sesame-fields.php:35 includes/options/sesame-fields.php:114
+#: includes/options/sesame-fields.php:121
+#: includes/options/sesame-fields.php:128
+#: includes/options/sesame-fields.php:135
+#: includes/options/sesame-fields.php:142
+#: includes/options/sesame-fields.php:149
+#: includes/options/sesame-fields.php:156
+#: includes/options/sesame-fields.php:529
+#: includes/options/sesame-fields.php:536
+msgid "px"
+msgstr ""
+
+#: includes/options/sesame-fields.php:41
+msgid "Property Search"
+msgstr "Recherche de propriété"
+
+#: includes/options/sesame-fields.php:42
+msgid ""
+"If you turn it on, then default WordPress search widget, searches on "
+"properties instead of WP pages/posts"
+msgstr ""
+"Si vous l'activez, le widget de recherche WordPress par défaut recherche les "
+"propriétés au lieu des pages WP / publications"
+
+#: includes/options/sesame-fields.php:48
+msgid "Show Breadcrumb"
+msgstr "Afficher Breadcrumb"
+
+#: includes/options/sesame-fields.php:49
+msgid "Show or Hide Breadcrumb"
+msgstr "Afficher ou masquer Breadcrumb"
+
+#: includes/options/sesame-fields.php:57
+msgid "Colors"
+msgstr "Couleurs"
+
+#: includes/options/sesame-fields.php:64
+msgid "Main Color"
+msgstr "Couleur Principal"
+
+#: includes/options/sesame-fields.php:65
+msgid "The main color"
+msgstr "La couleur principal"
+
+#: includes/options/sesame-fields.php:72
+msgid "Secondary Color"
+msgstr "Couleur secondaire"
+
+#: includes/options/sesame-fields.php:73
+msgid "The Secondary color"
+msgstr "La couleur secondaire"
+
+#: includes/options/sesame-fields.php:80
+msgid "Link Color"
+msgstr "Couleur du lien"
+
+#: includes/options/sesame-fields.php:81
+msgid "The link color"
+msgstr "La couleur du lien"
+
+#: includes/options/sesame-fields.php:88
+msgid "Link Hover Color"
+msgstr "Couleur de survol du lien"
+
+#: includes/options/sesame-fields.php:89
+msgid "The link Mouseover color"
+msgstr "Le lien Couleur de la souris"
+
+#: includes/options/sesame-fields.php:96
+msgid "Text Color"
+msgstr "Couleur de texte"
+
+#: includes/options/sesame-fields.php:97
+msgid "The text color"
+msgstr "La couleur du texte"
+
+#: includes/options/sesame-fields.php:106
+msgid "Fonts"
+msgstr "Police"
+
+#: includes/options/sesame-fields.php:113
+msgid "H1 font size"
+msgstr "H1 taille du police"
+
+#: includes/options/sesame-fields.php:120
+msgid "H2 font size"
+msgstr "H2 taille du police"
+
+#: includes/options/sesame-fields.php:127
+msgid "H3 font size"
+msgstr "H3 taille du police"
+
+#: includes/options/sesame-fields.php:134
+msgid "H4 font size"
+msgstr "H4 taille du police"
+
+#: includes/options/sesame-fields.php:141
+msgid "H5 font size"
+msgstr "H5 taille du police"
+
+#: includes/options/sesame-fields.php:148
+msgid "H6 font size"
+msgstr "H6 taille du police"
+
+#: includes/options/sesame-fields.php:155
+msgid "Text font size"
+msgstr "Taille de police du texte"
+
+#: includes/options/sesame-fields.php:162
+msgid "Title font family"
+msgstr "Titre famille de polices"
+
+#: includes/options/sesame-fields.php:174
+msgid "Content font family"
+msgstr "Contenu famille de polices"
+
+#: includes/options/sesame-fields.php:186
+msgid "Button font family"
+msgstr "Boutton famille de polices"
+
+#: includes/options/sesame-fields.php:207
+msgid "Show Tel"
+msgstr "Afficher le Télephone"
+
+#: includes/options/sesame-fields.php:208
+msgid "If checked the Tel will be shown."
+msgstr "Si coché, le téléphone sera affiché."
+
+#: includes/options/sesame-fields.php:214
+msgid "Tel"
+msgstr ""
+
+#: includes/options/sesame-fields.php:215
+msgid "Your telephone number"
+msgstr "Votre numéro de téléphone"
+
+#: includes/options/sesame-fields.php:222
+msgid "Show Email"
+msgstr "Afficher l'e-mail"
+
+#: includes/options/sesame-fields.php:223
+msgid "If checked the Email will be shown."
+msgstr "Si coché, le e-mail sera affiché."
+
+#: includes/options/sesame-fields.php:230
+msgid "Your email number."
+msgstr "Votre numéro de e-mail."
+
+#: includes/options/sesame-fields.php:237
+msgid "User Links"
+msgstr ""
+
+#: includes/options/sesame-fields.php:238
+#, fuzzy
+#| msgid "If checked the page title will be shown."
+msgid "If checked the Login, Register and other user links will be shown."
+msgstr "Si coché, le titre de la page sera affiché."
+
+#: includes/options/sesame-fields.php:244
+msgid "Search "
+msgstr "Recherche "
+
+#: includes/options/sesame-fields.php:245
+msgid "Show search on header"
+msgstr "Afficher la recherche sur l'en-tête"
+
+#: includes/options/sesame-fields.php:251
+msgid "Social Media "
+msgstr "Des médias sociaux "
+
+#: includes/options/sesame-fields.php:252
+msgid "Show social media on header"
+msgstr "Afficher les médias sociaux sur l'en-tête"
+
+#: includes/options/sesame-fields.php:258
+msgid "Sticky Header"
+msgstr "En-tête collant"
+
+#: includes/options/sesame-fields.php:259
+#: includes/options/sesame-fields.php:266
+msgid "The header will move by the page scroll"
+msgstr "L'en-tête se déplacera par le défilement de la page"
+
+#: includes/options/sesame-fields.php:265
+msgid "Sticky Header on mobile"
+msgstr "En-tête collant sur le portable"
+
+#: includes/options/sesame-fields.php:272
+msgid "Header Type"
+msgstr "Type d'en-tête"
+
+#: includes/options/sesame-fields.php:273
+msgid "Select the header layout you prefer"
+msgstr "Sélectionnez la disposition d'en-tête que vous préférez"
+
+#: includes/options/sesame-fields.php:275
+msgid "Type 1"
+msgstr ""
+
+#: includes/options/sesame-fields.php:276
+msgid "Type 2"
+msgstr ""
+
+#: includes/options/sesame-fields.php:277
+msgid "Type 3"
+msgstr ""
+
+#: includes/options/sesame-fields.php:284
+msgid "Header Transparency"
+msgstr "Transparence de l'en-tête"
+
+#: includes/options/sesame-fields.php:285
+msgid "It should be between 0 till 1"
+msgstr "Il doit être compris de 0 a 1"
+
+#: includes/options/sesame-fields.php:292
+msgid "Logo Type"
+msgstr "Type de Logo"
+
+#: includes/options/sesame-fields.php:297
+#, fuzzy
+#| msgid ""
+#| "If you choose Title/Subtitle you should change it in Settings -> General"
+msgid ""
+"If you choose Title / Subtitle you should change it in Customizer -> Site "
+"Identity"
+msgstr ""
+"Si vous choisissez le titre / sous-titre, vous devez le modifier dans "
+"Paramètres -> Général"
+
+#: includes/options/sesame-fields.php:305
+msgid "Footer"
+msgstr "Bas de page"
+
+#: includes/options/sesame-fields.php:312
+msgid "Footer Background Color"
+msgstr "Couleur de fond du pied de page"
+
+#: includes/options/sesame-fields.php:319
+msgid "Show Background Image"
+msgstr "Afficher fond d'image"
+
+#: includes/options/sesame-fields.php:320
+msgid "Show a background image for footer."
+msgstr "Afficher fond d'image pour le pied de page."
+
+#: includes/options/sesame-fields.php:327
+msgid "Background Image"
+msgstr "Fond d'image"
+
+#: includes/options/sesame-fields.php:328
+#: includes/options/sesame-fields.php:408
+msgid "Upload your Background image"
+msgstr "Téléchargez votre image d'arrière-plan"
+
+#: includes/options/sesame-fields.php:337
+msgid "Footer Background Overlay"
+msgstr "Superposition d'arrière-plan de pied de page"
+
+#: includes/options/sesame-fields.php:338
+msgid "It should be between 0 and 1"
+msgstr "Il doit être compris entre 0 et 1"
+
+#: includes/options/sesame-fields.php:345
+msgid "Number of columns"
+msgstr "Le nombre de colonnes"
+
+#: includes/options/sesame-fields.php:357
+msgid "Copyright"
+msgstr "Droits d'auteur"
+
+#: includes/options/sesame-fields.php:358
+msgid "Enter Your website Copyright text"
+msgstr "Entrez le texte de votre site Web Copyright"
+
+#: includes/options/sesame-fields.php:359
+msgid "Copyright © All rights reserved."
+msgstr ""
+
+#: includes/options/sesame-fields.php:364
+msgid "Affiliate ID"
+msgstr "ID d'affilié"
+
+#: includes/options/sesame-fields.php:366
+#, fuzzy, php-format
+#| msgid ""
+#| "Enter Your Affilate id here. If you dont have an affiliate account your "
+#| "can create one here: <a href=\"https://realtyna.com/affiliate-area/"
+#| "\">https://realtyna.com/affiliate-area/</a> "
+msgid ""
+"Enter Your Affilate id here. If you dont have an affiliate account your can "
+"create one here: %s"
+msgstr ""
+"Saisissez votre identifiant d'affilié ici. Si vous n'avez pas de compte "
+"affilié, vous pouvez en créer un ici: <a href=\"https://realtyna.com/"
+"affiliate-area/\">https://realtyna.com/affiliate-area/</a> "
+
+#: includes/options/sesame-fields.php:372
+msgid "Developed By Realtyna"
+msgstr "Développé par Realtyna"
+
+#: includes/options/sesame-fields.php:373
+msgid "If you disable this You can not use affiliate program."
+msgstr ""
+"Si vous désactivez cette option, vous ne pouvez pas utiliser le programme "
+"d'affiliation."
+
+#: includes/options/sesame-fields.php:381
+msgid "Page Title"
+msgstr "Titre de la page"
+
+#: includes/options/sesame-fields.php:388
+msgid "Show Title"
+msgstr "Afficher le titre"
+
+#: includes/options/sesame-fields.php:389
+#: includes/options/sesame-fields.php:429
+msgid "If checked the page title will be shown."
+msgstr "Si coché, le titre de la page sera affiché."
+
+#: includes/options/sesame-fields.php:395
+msgid "Title Type"
+msgstr "Type de titre"
+
+#: includes/options/sesame-fields.php:396
+msgid "Select the type of the page title."
+msgstr "Sélectionez le type de titre de la page."
+
+#: includes/options/sesame-fields.php:398
+msgid "Simple"
+msgstr ""
+
+#: includes/options/sesame-fields.php:399
+#: includes/options/sesame-fields.php:407
+msgid "Background"
+msgstr "Le fond"
+
+#: includes/options/sesame-fields.php:417
+msgid "Title Text Align"
+msgstr "Aligner le texte du titre"
+
+#: includes/options/sesame-fields.php:418
+msgid "Select the text align of the page title."
+msgstr "Sélectionnez l'alignement du texte du titre de la page."
+
+#: includes/options/sesame-fields.php:420
+msgid "Left"
+msgstr ""
+
+#: includes/options/sesame-fields.php:421
+msgid "Center"
+msgstr ""
+
+#: includes/options/sesame-fields.php:428
+msgid "Show Separator"
+msgstr "Montrer séparateur"
+
+#: includes/options/sesame-fields.php:436
+msgid "Title H Tag"
+msgstr "Titre H tag"
+
+#: includes/options/sesame-fields.php:453
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: includes/options/sesame-fields.php:460
+msgid "Show Sidebar "
+msgstr "Afficher la barre latérale "
+
+#: includes/options/sesame-fields.php:461
+msgid "Show sidebar for all pages"
+msgstr "Afficher la barre latérale pour toutes les pages"
+
+#: includes/options/sesame-fields.php:468
+msgid "Default Sidebar"
+msgstr "Barre latérale par défaut"
+
+#: includes/options/sesame-fields.php:475
+msgid "Sidebar Position"
+msgstr "Position de la barre latérale"
+
+#: includes/options/sesame-fields.php:487
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/options/sesame-fields.php:494
+msgid "Excerpt Number of Chars"
+msgstr "Extrait du nombre de caractères"
+
+#: includes/options/sesame-fields.php:495
+msgid "How many Characters should be shown for the blog posts in the blog page"
+msgstr ""
+"Combien de caractères doivent être affichés pour les articles de blog dans "
+"la page de blog"
+
+#: includes/options/sesame-fields.php:501
+msgid "More link text"
+msgstr "Plus de texte de lien"
+
+#: includes/options/sesame-fields.php:502
+msgid "The more link text of a blog post"
+msgstr "Le plus de texte de lien d'un article de blog"
+
+#: includes/options/sesame-fields.php:503
+#, fuzzy
+#| msgid "Read More"
+msgid "Read More..."
+msgstr "Lire plus"
+
+#: includes/options/sesame-fields.php:508
+msgid "Number of posts Columns"
+msgstr "Nombre de messages Colonnes"
+
+#: includes/options/sesame-fields.php:521
+msgid "Post Title Color"
+msgstr "Couleur du titre du message"
+
+#: includes/options/sesame-fields.php:528
+msgid "Post title font size"
+msgstr "Taille de la police du titre du message"
+
+#: includes/options/sesame-fields.php:535
+msgid "Single Post title font size"
+msgstr "Taille de police du titre du message unique"
+
+#: includes/options/sesame-fields.php:544
+msgid "Social"
+msgstr ""
+
+#: includes/options/sesame-fields.php:551
+msgid "Facebook Page Link"
+msgstr "Lien de la page de Facebook"
+
+#: includes/options/sesame-fields.php:552
+msgid "Your facebook page link"
+msgstr "LIen de votre page de Facebook"
+
+#: includes/options/sesame-fields.php:557
+msgid "Linked in link"
+msgstr "Lié dans le lien"
+
+#: includes/options/sesame-fields.php:558
+msgid "Your linked In page link"
+msgstr "Le lien de votre page LinkedIn"
+
+#: includes/options/sesame-fields.php:563
+msgid "Twitter Page Link"
+msgstr "Lien de la page de Twitter"
+
+#: includes/options/sesame-fields.php:564
+msgid "Your Twitter page link"
+msgstr "Lien de votre page de Twitter"
+
+#: includes/options/sesame-fields.php:569
+#, fuzzy
+#| msgid "Twitter Page Link"
+msgid "Instagram Page Link"
+msgstr "Lien de la page de Twitter"
+
+#: includes/options/sesame-fields.php:570
+#, fuzzy
+#| msgid "Your Twitter page link"
+msgid "Your Instagram page link"
+msgstr "Lien de votre page de Twitter"
+
+#: includes/options/sesame.php:43 includes/options/sesame.php:44
+msgid "Sesame Options"
+msgstr "Options de Sesame"
+
+#: includes/options/sesame.php:103
+#, php-format
+msgid "Sesame theme is developed by %s."
+msgstr "Thème Sésame est développé par %s."
+
+#: includes/redux_extensions/metaboxes/extension_metaboxes.php:812
+msgid "Options"
+msgstr ""
+
+#: includes/redux_extensions/metaboxes/extension_metaboxes.php:984
+msgid "Settings Imported!"
+msgstr "Paramètres importés!"
+
+#: includes/redux_extensions/metaboxes/extension_metaboxes.php:987
+msgid "Settings have changed, you should save them!"
+msgstr "Les paramètres ont changé, vous devez les enregistrer!"
+
+#: includes/redux_extensions/metaboxes/extension_metaboxes.php:991
+#: includes/redux_extensions/metaboxes/extension_metaboxes.php:1296
+msgid "error(s) were found!"
+msgstr "erreurs ont été trouvées!"
+
+#: includes/redux_extensions/metaboxes/extension_metaboxes.php:995
+msgid "warning(s) were found!"
+msgstr "avertissements ont été trouvés!"
+
+#: includes/redux_extensions/metaboxes/extension_metaboxes.php:1000
+#: includes/redux_template/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr "Développer"
+
+#: includes/redux_extensions/metaboxes/extension_metaboxes.php:1302
+msgid "warnings(s) were found!"
+msgstr "avertissements ont été trouvés!"
+
+#: includes/redux_template/footer.tpl.php:57
+#: includes/redux_template/header_stickybar.tpl.php:21
+msgid "Save Changes"
+msgstr "Sauvegarder les modifications"
+
+#: includes/redux_template/footer.tpl.php:61
+#: includes/redux_template/header_stickybar.tpl.php:25
+msgid "Reset Section"
+msgstr "Section de réinitialisation"
+
+#: includes/redux_template/footer.tpl.php:62
+#: includes/redux_template/header_stickybar.tpl.php:26
+msgid "Reset All"
+msgstr "Effacer tout"
+
+#: includes/redux_template/footer.tpl.php:67
+#: includes/redux_template/header_stickybar.tpl.php:29
+msgid "Working..."
+msgstr "Processus de travail..."
+
+#: includes/redux_template/header.tpl.php:11
+#: includes/redux_template/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr "Mode développeur activé"
+
+#: includes/redux_template/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr "WP_DEBUG est activé"
+
+#: includes/redux_template/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr "vous travaillez dans un environnement local"
+
+#: includes/redux_template/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: includes/redux_template/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr "Ceci a été automatiquement activé car"
+
+#: includes/redux_template/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+"Si vous n'êtes pas développeur, l'auteur de votre thème / plugin est livré "
+"avec le mode développeur activé. Contactez-les directement pour le réparer."
+
+#: includes/redux_template/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: partials/header.php:31 partials/header.php:142 partials/header.php:240
+#: searchform.php:27 wplhtml/widgets/search/default.php:58
+msgid "Search"
+msgstr "Chercher"
+
+#: partials/header.php:62 partials/header.php:192
+msgid "Email Us"
+msgstr "Envoyez-nous un email"
+
+#: partials/header.php:72 partials/header.php:202
+msgid "Call Us"
+msgstr "Appelez nous"
+
+#: partials/header.php:79 partials/header.php:209 partials/header.php:234
+#, fuzzy
+#| msgid "Main Menu"
+msgid "Menu"
+msgstr "Menu Principal"
+
+#: partials/header.php:94 partials/header.php:151 partials/header.php:257
+msgid "Sign In"
+msgstr ""
+
+#: partials/header.php:98 partials/header.php:155 partials/header.php:262
+msgid "Register"
+msgstr ""
+
+#: partials/header.php:103 partials/header.php:160 partials/header.php:268
+msgid "Log Out"
+msgstr ""
+
+#: search.php:37
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour: %s"
+
+#: search.php:54
+msgid "Nothing Found"
+msgstr "Rien n'a été trouvé"
+
+#: search.php:57
+msgid "Sorry, nothing matched your search. Please try again."
+msgstr "Désolé, rien ne correspond à votre recherche. Veuillez réessayer."
+
+#: searchform.php:25
+msgid "Enter your search term"
+msgstr "Entrez votre terme de recherche"
+
+#: wplhtml/activities/agent_info/default.php:115
+msgid "View website"
+msgstr "Voir le site web"
+
+#: wplhtml/frontend/property_show/default.php:84
+msgid "Visits"
+msgstr "Visites"
+
+#: wplhtml/frontend/property_show/default.php:84
+#, php-format
+msgid "in %d days"
+msgstr "dans %d jours"
+
+#: wplhtml/frontend/property_show/default.php:133
+#: wplhtml/frontend/property_show/default.php:394
+#: wplhtml/frontend/property_show/default_k1.php:144
+#: wplhtml/frontend/property_show/layout2.php:81
+#: wplhtml/frontend/property_show/layout2.php:349
+msgid "Minutes"
+msgstr ""
+
+#: wplhtml/frontend/property_show/default.php:228
+#: wplhtml/frontend/property_show/default_k1.php:235
+#: wplhtml/frontend/property_show/layout2.php:179
+msgid "Video"
+msgstr "Vidéo"
+
+#: wplhtml/frontend/property_show/default.php:240
+#: wplhtml/frontend/property_show/default_k1.php:247
+#: wplhtml/frontend/property_show/layout2.php:191
+msgid "Google Map"
+msgstr ""
+
+#: wplhtml/frontend/property_show/default.php:243
+#: wplhtml/frontend/property_show/default_k1.php:250
+#: wplhtml/frontend/property_show/layout2.php:194
+msgid "Birds Eye"
+msgstr ""
+
+#: wplhtml/frontend/property_show/default.php:502
+#: wplhtml/frontend/property_show/default_k1.php:402
+#: wplhtml/frontend/property_show/layout2.php:456
+msgid "Login to continue"
+msgstr "S'identifiez pour continuer"
+
+#: wplhtml/frontend/property_show/default_k1.php:105
+msgid "Complex Detail"
+msgstr "Détail complexe"
+
+#: wplhtml/widgets/carousel/list.php:77
+msgid "More Info"
+msgstr "Plus d'info"
+
+#: wplhtml/widgets/carousel/multi_images.php:67
+msgid "More"
+msgstr "Plus"
+
+#: wplhtml/widgets/search/default.php:55
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: wplhtml/widgets/search/default.php:65
+msgid "Saved Searches"
+msgstr "Recherches Sauvegardées"
+
+#: wplhtml/widgets/search/default.php:70
+msgid "Favorites"
+msgstr "Favoris"
+
+#: wplhtml/widgets/search/default.php:79
+msgid "Save this Search"
+msgstr "Sauvegarder cette recherche"
+
+#: wplhtml/widgets/search/default.php:79
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: wplhtml/widgets/search/default.php:84
+msgid "RSS"
+msgstr ""
+
+#: wplhtml/widgets/search/default.php:94
+msgid "More options"
+msgstr "Plus d'options"
+
+#, php-format
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Posts"
+#~ msgstr "Postes"
+
+#~ msgid "Content"
+#~ msgstr "Contenu"
+
+#~ msgid "Number of posts per page"
+#~ msgstr "Le nombre des postes par page"
+
+#~ msgid "One"
+#~ msgstr "Un"
+
+#~ msgid "Two"
+#~ msgstr "Deux"
+
+#~ msgid "Three"
+#~ msgstr "Trois"
+
+#~ msgid "Four"
+#~ msgstr "Quatre"
+
+#~ msgid "Six"
+#~ msgstr "Six"
+
+#~ msgid "Number of posts"
+#~ msgstr "Le nombre des postes"
+
+#~ msgid "Show Date"
+#~ msgstr "Afficher la date"
+
+#~ msgid "Yes"
+#~ msgstr "Oui"
+
+#~ msgid "No"
+#~ msgstr "Non"
+
+#~ msgid "Show Description"
+#~ msgstr "Afficher la description"
+
+#~ msgid "Show dot navigators"
+#~ msgstr "Afficher les navigateurs de points"
+
+#~ msgid "Show arrow navigators"
+#~ msgstr "Afficher les navigateurs fléchés"
+
+#~ msgid "Dynamic Testimonials"
+#~ msgstr "Témoignages dynamiques"
+
+#~ msgid "Description Limit Charachters"
+#~ msgstr "Description Limiter les caractères"
+
+#~ msgid "Enter some text"
+#~ msgstr "Saisissez du texte"
+
+#~ msgid "Upload your logo"
+#~ msgstr "Téléchargez votre logo"
+
+#~ msgid "Custom Codes"
+#~ msgstr "Codes personnalisés"
+
+#~ msgid "Custom CSS"
+#~ msgstr "CSS personnalisés"
+
+#~ msgid "Paste your CSS code here."
+#~ msgstr "Collez votre code CSS ici."
+
+#~ msgid "Custom JS on Header"
+#~ msgstr "JS personnalisé sur l'en-tête"
+
+#~ msgid "Custom JS for Analytics which will appear on Header."
+#~ msgstr "JS personnalisé pour Analytics qui apparaîtra sur l'en-tête."
+
+#~ msgid "Custom JS on Footer"
+#~ msgstr "JS personnalisé sur le pied de page"
+
+#~ msgid "Custom JS for JavaScript which will appear on Footer."
+#~ msgstr "JS personnalisé pour JavaScript qui apparaîtra sur le pied de page."
+
+#, php-format
+#~ msgid " %s "
+#~ msgstr " %s "
+
+#~ msgid "Developer"
+#~ msgstr "Développé"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 commentaire"
+
+#~ msgid "No Comments"
+#~ msgstr "Pas de commentaires"
+
+#~ msgid "Reply"
+#~ msgstr "Répondre"
+
+#~ msgid "Says"
+#~ msgstr "Dit"
